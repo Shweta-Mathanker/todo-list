@@ -27,7 +27,7 @@ body::-webkit-scrollbar{
 }
 .counterbox{
     width: 30%;
-    height: 30%;
+    height: 40%;
     border: 1px solid #CEBEA4;
     position: relative;
     top: 10%;
